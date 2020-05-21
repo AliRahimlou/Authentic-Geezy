@@ -7,12 +7,13 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "mdbreact": "^4.26.1",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-scripts": "1.1.1"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
   },
+  "main": "server/server.js",
   "scripts": {
-    "start": "react-scripts start",
+    "start": "server/server.js",
     "build": "react-scripts build",
     "deploy": "serve -s build",
     "test": "react-scripts test",

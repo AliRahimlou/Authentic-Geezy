@@ -11,9 +11,9 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "main": "server/server.js",
+  "main": "index.html",
   "scripts": {
-    "start": "server/server.js",
+    "start": "node server/server.js",
     "build": "react-scripts build",
     "deploy": "serve -s build",
     "test": "react-scripts test",

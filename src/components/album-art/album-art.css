@@ -1,8 +1,8 @@
 .album-cover{
     position: absolute;
-    width: 580px;
+    width: 37rem;
     top: -43rem;
-    left:15%
+    left:4rem
 }
 @media all and (max-width: 370px) and (min-width: 320px) {
     .album-cover{

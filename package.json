@@ -1,6 +1,9 @@
 {
   "name": "sample",
   "version": "0.1.0",
+  "engines": {
+    "node": "10.16.0"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -11,7 +14,6 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "main": "App.js",
   "scripts": {
     "start": "react-scripts npm start",
     "build": "react-scripts build",

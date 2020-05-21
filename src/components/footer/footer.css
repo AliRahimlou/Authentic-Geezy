@@ -1,0 +1,22 @@
+.ae-logo-footer{
+    height: 100px;
+    
+}
+
+.footer{
+    border-top: 5px solid white;
+}
+ .copy{
+     margin-top: 1%;
+ }
+
+ @media (max-width: 400px) {
+    .footer{
+        border-top: 2px solid white;
+    }
+    .ae-logo-footer{
+        height: 75px;
+        
+    }
+  
+  }

@@ -1,0 +1,25 @@
+/* .by-the-cover{
+ border: 2px solid black;
+width: 1265px;
+height: 700px;
+ margin: 0px 0px 50px -78px;
+ 
+} */
+
+.by-the-cover{
+    border: 2px solid black;
+   width:100%;
+ 
+    /* margin: 0px 0px 50px -78px; */
+    
+   }
+
+/* @media (max-width: 400px) {
+    .by-the-cover{
+        border: 2px solid black;
+       width: 109%;
+       height: 100%;
+        margin: 0px 0px 50px -15px;
+     
+       }
+  } */

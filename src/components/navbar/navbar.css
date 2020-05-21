@@ -1,0 +1,196 @@
+.ae-logo{
+    height: 50px;
+}
+
+.geezy-logo{
+    height: 60px;
+    margin: 0% 0% 0% 35%;
+}
+
+.presents{
+    color: rgb(226, 224, 224);
+    font-family: 'Fredericka the Great', cursive;
+   font-size: 18pt;
+   margin-left: 1%;
+}
+#fb{
+    margin: 0px 0px 0px 56%;
+    color: blanchedalmond;
+    font-size: 40px;
+}
+#twitter{
+    margin: 0px 0px 0px 25px;
+    color: blanchedalmond;
+    font-size: 40px;
+}
+#insta{
+   margin: 0px 0px 0px 25px;
+   color: blanchedalmond;
+   font-size: 40px;
+}
+
+#fb:hover{
+    color: royalblue;
+}
+#twitter:hover{
+    color: royalblue;
+}
+#insta:hover{
+    color: royalblue;
+}
+
+
+
+@media all and (max-width: 370px) and (min-width: 320px) {
+    .ae-logo{
+        height: 45px;
+    }
+    .presents{
+       font-size: 0pt;
+       margin-left: 1%;
+    }
+    .geezy-logo{
+        height: 40px;
+        width: 90px;
+        margin: -5% 0% 0% 20%;
+    }
+    #fb{
+        margin: 0px 0px 0px 15px;
+        font-size: 25px;
+
+    }
+    #twitter{
+        margin: 0px 0px 0px 15px;
+        font-size: 25px;
+
+    }
+    #insta{
+       margin: 0px 0px 0px 15px;
+       font-size: 25px;
+
+    }
+  
+  }
+
+  @media all and (max-width: 400px) and (min-width: 375px) {
+    .ae-logo{
+        height: 45px;
+    }
+    .presents{
+       font-size: 0pt;
+       margin-left: 1%;
+    }
+    .geezy-logo{
+        height: 40px;
+        width: 90px;
+        margin: -5% 0% 0% 27%;
+    }
+    #fb{
+        margin: 0px 0px 0px 33px;
+        font-size: 25px;
+
+    }
+    #twitter{
+        margin: 0px 0px 0px 20px;
+        font-size: 25px;
+
+    }
+    #insta{
+       margin: 0px 0px 0px 20px;
+       font-size: 25px;
+
+    }
+  
+  }
+
+  @media all and (max-width: 500px) and (min-width: 411px) {
+    .ae-logo{
+        height: 45px;
+    }
+    .presents{
+       font-size: 0pt;
+       margin-left: 1%;
+    }
+    .geezy-logo{
+        height: 40px;
+        width: 90px;
+        margin: -5% 0% 0% 35%;
+    }
+    #fb{
+        margin: 0px 0px 0px 46px;
+        font-size: 25px;
+
+    }
+    #twitter{
+        margin: 0px 0px 0px 20px;
+        font-size: 25px;
+
+    }
+    #insta{
+       margin: 0px 0px 0px 20px;
+       font-size: 25px;
+
+
+    }
+  
+  }
+  
+  @media all and (max-width: 1000px) and (min-width: 700px) {
+    .ae-logo{
+        height: 45px;
+    }
+    .presents{
+       font-size: 13pt;
+       margin-left: 1%;
+    }
+    .geezy-logo{
+        height: 50px;
+        width: 100px;
+        margin: -1% 0% 0% 10%;
+    }
+    #fb{
+        margin: 0px 0px 0px 175px;
+        font-size: 30px;
+    }
+    #twitter{
+        margin: 0px 0px 0px 25px;
+        font-size: 30px;
+
+    }
+    #insta{
+       margin: 0px 0px 0px 25px;
+       font-size: 30px;
+
+    }
+  
+  }
+
+  @media all and (max-width: 1050px) and (min-width: 1024px) {
+    .ae-logo{
+        height: 45px;
+    }
+    .presents{
+       font-size: 18pt;
+       margin-left: 1%;
+    }
+    .geezy-logo{
+        height: 60px;
+        width: 110px;
+        margin: -1% 0% 0% 10%;
+    }
+    #fb{
+        margin: 0px 0px 0px 275px;
+        font-size: 40px;
+    }
+    #twitter{
+        margin: 0px 0px 0px 25px;
+        font-size: 40px;
+
+    }
+    #insta{
+       margin: 0px 0px 0px 25px;
+       font-size: 40px;
+
+    }
+  
+  }

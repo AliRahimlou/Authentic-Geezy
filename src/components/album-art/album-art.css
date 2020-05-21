@@ -1,0 +1,50 @@
+.album-cover{
+    position: absolute;
+    width: 580px;
+    top: -43rem;
+    left:15%
+}
+@media all and (max-width: 370px) and (min-width: 320px) {
+    .album-cover{
+        position: absolute;
+        top: -12rem;
+        width: 9rem;
+        left: 1.5rem;
+    }
+  }
+
+  @media all and (max-width: 400px) and (min-width: 375px) {
+    .album-cover{
+        position: absolute;
+        top: -14rem;
+        width: 12rem;
+        left: 1rem;
+    }
+  }
+  
+  @media all and (max-width: 500px) and (min-width: 411px) {
+    .album-cover{
+        position: absolute;
+        top: -15.3rem;
+        width: 13rem;
+        left: 1.2rem;
+    }
+  }
+
+  @media all and (max-width: 1000px) and (min-width: 700px) {
+    .album-cover{
+        position: absolute;
+        top: -28rem;
+        width: 25rem;
+        left: 1.2rem;
+    }
+  }
+
+  @media all and (max-width: 1050px) and (min-width: 1024px) {
+    .album-cover{
+        position: absolute;
+        top: -37rem;
+        width: 34rem;
+        left: 1.7rem;
+    }
+  }

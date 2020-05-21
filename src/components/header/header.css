@@ -1,0 +1,14 @@
+.imgcont{
+    border: 2px solid black;
+    overflow: hidden;  
+}
+
+.img{
+width: 100%;
+/* position: relative; */
+}
+
+.img:hover {
+        transform: scale(1.1);
+        transition: transform 6s cubic-bezier(0.25, 0.45, 0.45, 0.95);
+      }

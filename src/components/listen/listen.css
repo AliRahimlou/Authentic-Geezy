@@ -1,0 +1,106 @@
+
+.listen-button{
+    background-color: transparent;
+    font-size: 25pt;
+    color: white;
+    border: 4px solid white;
+    position: absolute;
+    margin: -50% 0% 0% 55%;
+    animation: color-change 1s infinite;
+}
+  
+  @keyframes color-change {
+    0% { color: black; }
+    50% { color: white; }
+    100% { color: black; }
+  }
+
+.listen-button:hover{
+    border: 4px solid black;
+    color: black;
+}
+  
+
+@media (max-width: 400px) {
+    .listen-button{
+        border: 2px solid white;
+        font-size: 10pt;
+        position: absolute;
+        margin: -50% 0% 0% 47%;
+        
+    }
+    .listen-button:hover{
+        border: 2px solid black;
+        color: black;
+    }
+  }
+
+  @media all and (max-width: 370px) and (min-width: 320px) {
+    .listen-button{
+        border: 2px solid white;
+        font-size: 9pt;
+        position: absolute;
+        margin: -53% 0% 0% 45%;
+        
+    }
+    .listen-button:hover{
+        border: 2px solid black;
+        color: black;
+    }
+  }
+
+  @media all and (max-width: 400px) and (min-width: 375px) {
+    .listen-button{
+        border: 2px solid white;
+        font-size: 9pt;
+        position: absolute;
+        margin: -53% 0% 0% 49.5%;
+        
+    }
+    .listen-button:hover{
+        border: 2px solid black;
+        color: black;
+    }
+  }
+
+  @media all and (max-width: 500px) and (min-width: 411px) {
+    .listen-button{
+        border: 2px solid white;
+        font-size: 11pt;
+        position: absolute;
+        margin: -53% 0% 0% 49.5%;
+        
+    }
+    .listen-button:hover{
+        border: 2px solid black;
+        color: black;
+    }
+  }
+
+  @media all and (max-width: 1000px) and (min-width: 700px) {
+    .listen-button{
+        border: 2px solid white;
+        font-size: 20pt;
+        position: absolute;
+        margin: -53% 0% 0% 52%;
+        
+    }
+    .listen-button:hover{
+        border: 2px solid black;
+        color: black;
+    }
+  }
+
+  @media all and (max-width: 1050px) and (min-width: 1024px) {
+    .listen-button{
+        border: 2px solid white;
+        font-size: 27pt;
+        position: absolute;
+        margin: -53% 0% 0% 53%;
+        
+    }
+    .listen-button:hover{
+        border: 2px solid black;
+        color: black;
+    }
+  }

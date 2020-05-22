@@ -44,7 +44,7 @@ class Navbar extends React.Component {
                 <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer"> 
                   <MDBIcon id='twitter' fab icon="twitter" />
                 </a>
-                <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://instagram.com/geezydiegoescobar?igshid=1i9upjuvrfky8" target="_blank" rel="noopener noreferrer">
                   <MDBIcon id='insta' fab icon="instagram" />
                 </a>
               </MDBNavbarBrand>

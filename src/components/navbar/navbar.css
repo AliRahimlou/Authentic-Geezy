@@ -67,9 +67,7 @@
     #insta{
        margin: 0px 0px 0px 15px;
        font-size: 25px;
-
     }
-  
   }
 
   @media all and (max-width: 400px) and (min-width: 375px) {
@@ -98,9 +96,7 @@
     #insta{
        margin: 0px 0px 0px 20px;
        font-size: 25px;
-
     }
-  
   }
 
   @media all and (max-width: 500px) and (min-width: 411px) {
@@ -129,13 +125,10 @@
     #insta{
        margin: 0px 0px 0px 20px;
        font-size: 25px;
-
-
-    }
-  
+    } 
   }
   
-  @media all and (max-width: 1000px) and (min-width: 700px) {
+  @media all and (max-width: 1000px) and (min-width: 600px) {
     .ae-logo{
         height: 45px;
     }
@@ -160,9 +153,7 @@
     #insta{
        margin: 0px 0px 0px 25px;
        font-size: 30px;
-
-    }
-  
+     }
   }
 
   @media all and (max-width: 1050px) and (min-width: 1024px) {
@@ -190,7 +181,179 @@
     #insta{
        margin: 0px 0px 0px 25px;
        font-size: 40px;
+    }
+  }
+
+  @media all and (max-width: 630px) and (min-width: 560px) and (orientation: landscape) {
+    .ae-logo{
+        height: 45px;
+    }
+    .presents{
+       font-size: 9pt;
+       margin-left: 1%;
+    }
+    .geezy-logo{
+        height: 40px;
+        width: 90px;
+        margin: -3% 0% 0% 5%;
+    }
+    #fb{
+        margin: 0px 0px 0px 105px;
+        font-size: 25px;
 
     }
-  
+    #twitter{
+        margin: 0px 0px 0px 25px;
+        font-size: 25px;
+
+    }
+    #insta{
+       margin: 0px 0px 0px 25px;
+       font-size: 25px;
+    }
   }
+
+  @media all and (max-width: 650px) and (min-width: 640px) and (orientation: landscape) {
+    .ae-logo{
+        height: 45px;
+    }
+    .presents{
+       font-size: 10pt;
+       margin-left: 1%;
+    }
+    .geezy-logo{
+        height: 40px;
+        width: 90px;
+        margin: -3% 0% 0% 8%;
+    }
+    #fb{
+        margin: 0px 0px 0px 145px;
+        font-size: 25px;
+
+    }
+    #twitter{
+        margin: 0px 0px 0px 25px;
+        font-size: 25px;
+
+    }
+    #insta{
+       margin: 0px 0px 0px 25px;
+       font-size: 25px;
+    }
+  }
+
+  @media all and (max-width: 720px) and (min-width: 660px) and (orientation: landscape) {
+    .ae-logo{
+        height: 45px;
+    }
+    .presents{
+       font-size: 11pt;
+       margin-left: 1%;
+    }
+    .geezy-logo{
+        height: 40px;
+        width: 90px;
+        margin: -3% 0% 0% 7%;
+    }
+    #fb{
+        margin: 0px 0px 0px 155px;
+        font-size: 25px;
+
+    }
+    #twitter{
+        margin: 0px 0px 0px 25px;
+        font-size: 25px;
+
+    }
+    #insta{
+       margin: 0px 0px 0px 25px;
+       font-size: 25px;
+    }
+  }
+
+  @media all and (max-width: 790px) and (min-width: 730px) and (orientation: landscape) {
+    .ae-logo{
+        height: 45px;
+    }
+    .presents{
+       font-size: 12pt;
+       margin-left: 1%;
+    }
+    .geezy-logo{
+        height: 40px;
+        width: 90px;
+        margin: -2% 0% 0% 9%;
+    }
+    #fb{
+        margin: 0px 0px 0px 185px;
+        font-size: 25px;
+
+    }
+    #twitter{
+        margin: 0px 0px 0px 25px;
+        font-size: 25px;
+
+    }
+    #insta{
+       margin: 0px 0px 0px 25px;
+       font-size: 25px;
+    }
+  }
+
+  @media all and (max-width: 1000px) and (min-width: 800px) and (orientation: landscape) {
+    .ae-logo{
+        height: 45px;
+    }
+    .presents{
+       font-size:13pt;
+       margin-left: 1%;
+    }
+    .geezy-logo{
+        height: 40px;
+        width: 90px;
+        margin: -2% 0% 0% 11%;
+    }
+    #fb{
+        margin: 0px 0px 0px 230px;
+        font-size: 25px;
+
+    }
+    #twitter{
+        margin: 0px 0px 0px 25px;
+        font-size: 25px;
+
+    }
+    #insta{
+       margin: 0px 0px 0px 25px;
+       font-size: 25px;
+    }
+  }
+
+  /* @media all and (max-width: 1400px) and (min-width: 1300px) and (orientation: landscape) {
+    .ae-logo{
+        height: 45px;
+    }
+    .presents{
+       font-size: 18pt;
+       margin-left: 1%;
+    }
+    .geezy-logo{
+        height: 50px;
+        width: 100px;
+        margin: -1% 0% 0% 25%;
+    }
+    #fb{
+        margin: 0px 0px 0px 500px;
+        font-size: 25px;
+
+    }
+    #twitter{
+        margin: 0px 0px 0px 25px;
+        font-size: 25px;
+
+    }
+    #insta{
+       margin: 0px 0px 0px 25px;
+       font-size: 25px;
+    }
+  } */

@@ -48,3 +48,57 @@
         left: 1.7rem;
     }
   }
+
+  @media all and (max-width: 630px) and (min-width: 560px) and (orientation: landscape){
+    .album-cover{
+      position: absolute;
+      top: -19.5rem;
+      width: 15rem;
+      left: 1.5rem;
+  }
+  }
+
+  @media all and (max-width: 650px) and (min-width: 640px) and (orientation: landscape){
+    .album-cover{
+      position: absolute;
+      top: -22rem;
+      width:18rem;
+      left: 1.5rem;
+  }
+  }
+
+  @media all and (max-width: 720px) and (min-width: 660px) and (orientation: landscape){
+    .album-cover{
+      position: absolute;
+      top: -23rem;
+      width:19rem;
+      left: 1.5rem;
+  }
+  }
+
+  @media all and (max-width: 790px) and (min-width: 730px) and (orientation: landscape){
+    .album-cover{
+      position: absolute;
+      top: -25.3rem;
+      width:21rem;
+      left: 1.5rem;
+  }
+  }
+
+  @media all and (max-width: 1000px) and (min-width: 800px) and (orientation: landscape){
+    .album-cover{
+      position: absolute;
+      top: -28rem;
+      width:19rem;
+      left: 2rem;
+  }
+  }
+
+  /* @media all and (max-width: 1400px) and (min-width: 1300px) and (orientation: landscape){
+    .album-cover{
+      position: absolute;
+      top: -48.2rem;
+      width:42rem;
+      left: 2rem;
+  }
+  } */

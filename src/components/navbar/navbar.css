@@ -329,7 +329,7 @@
     }
   }
 
-  /* @media all and (max-width: 1400px) and (min-width: 1300px) and (orientation: landscape) {
+  @media all and (max-width: 1400px) and (min-width: 1300px) and (orientation: landscape) {
     .ae-logo{
         height: 45px;
     }
@@ -338,22 +338,22 @@
        margin-left: 1%;
     }
     .geezy-logo{
-        height: 50px;
-        width: 100px;
-        margin: -1% 0% 0% 25%;
+        height: 60px;
+        width: 110px;
+        margin: -1% 0% 0% 42%;
     }
     #fb{
-        margin: 0px 0px 0px 500px;
-        font-size: 25px;
+        margin: 0px 0px 0px 80%;
+        font-size: 35px;
 
     }
     #twitter{
         margin: 0px 0px 0px 25px;
-        font-size: 25px;
+        font-size: 35px;
 
     }
     #insta{
        margin: 0px 0px 0px 25px;
-       font-size: 25px;
+       font-size: 35px;
     }
-  } */
+  }

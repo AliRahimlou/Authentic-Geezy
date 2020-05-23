@@ -94,11 +94,11 @@
   }
   }
 
-  /* @media all and (max-width: 1400px) and (min-width: 1300px) and (orientation: landscape){
+  @media all and (max-width: 1400px) and (min-width: 1300px) and (orientation: landscape){
     .album-cover{
       position: absolute;
       top: -48.2rem;
       width:42rem;
       left: 2rem;
   }
-  } */
+  }
